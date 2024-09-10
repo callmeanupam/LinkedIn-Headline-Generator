@@ -18,7 +18,7 @@ export default function Header() {
           </div>
           <div className="hidden md:flex items-center space-x-4">
             <Link
-              href="#"
+              href="https://github.com/callmeanupam/LinkedIn-Headline-Generator"
               className="flex justify-between items-center gap-2 text-gray-600 hover:text-teal-600 transition-colors duration-300"
             >
               <GitHubLogoIcon />

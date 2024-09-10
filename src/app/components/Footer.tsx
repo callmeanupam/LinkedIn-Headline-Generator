@@ -20,7 +20,7 @@ export default function Footer() {
           </div>
           <div className="flex space-x-4">
             <Link
-              href="#"
+              href="https://github.com/callmeanupam/LinkedIn-Headline-Generator"
               className="text-gray-600 hover:text-teal-600 transition-colors duration-300"
             >
               <Github />
